@@ -1,0 +1,148 @@
+body 
+{background-image:url(grillebleu.png);
+background-repeat:repeat;
+}
+
+
+p1
+{ 
+		font-family : brandon text ; 
+		font-size: 15px ; 
+		position:absolute;
+		top:28%;
+		left:6%;
+		width:150px;
+}
+
+#quefaire
+{ 
+		color : #47AA7C;
+		font-family : brandon text ; 
+		font-size: 54px;
+		margin-top: 17%; 
+}
+p2{
+    background-color: white;}
+
+
+a
+{color:white; text-decoration: none; font-family: brandon text; font-size: 20px;}
+a:hover
+{color:#47AA7C;}
+
+#carte 
+{border:1 px solid #E53A30;
+	display : block;
+	height:150px; 
+	width: 200px;
+	margin-top:5%;
+	border-radius: 15px;
+	padding-top:90px; 
+	background-color:#E53A30; 
+	box-shadow: 30px 50px 5px white;
+	position:absolute;
+		top:105%;
+		left:10%;
+	}
+	
+#bouton0 
+{
+	padding:2px 0 6px 0;
+	font: 58px Brandon text;
+	background:#47AA7C;
+	color:#fff;
+	width:320px;
+	border-radius:6px;
+	border:none;
+	position:fixed;
+		top:30%;
+		left:36.5%;
+	text-align : center
+	}
+
+	
+#circle {
+      width: 150px;'
+      height: 150px;
+      border-radius: 250px;
+      background: #47AA7C;
+    	position:absolute;
+		top:110%;
+		left:46%;
+		} 
+		
+#bouton1
+{
+        position:absolute;
+        top:47.3%;
+        left:52%;
+        padding:10px 0 6px 0;
+		font: 20px Brandon text;
+		background:#E53A30;
+		color:#fff;
+		width:180px;
+		border-radius:6px;
+		border:none;
+    }
+#bouton1:hover
+	{color:#b6dde9;}
+	
+#bouton2
+{
+        position:absolute;
+        top:47.3%;
+        left:32%;
+        padding:10px 0 6px 0;
+		font: 20px Brandon text;
+		background:#E53A30;
+		color:#fff;
+		width:210px;
+		border-radius:6px;
+		border:none;
+		text-align:center;
+	 }
+#bouton2:hover
+	{color:#b6dde9;}
+
+#bouton3
+{       
+		font: 14px Brandon text;
+		color:#2e3e96;
+		position:absolute;
+		top: 3px;
+		left:6%;
+	 }
+#bouton3:hover
+	{color:red;}
+
+#bouton4
+{
+		font: 14px Brandon text;
+		color:#2e3e96;
+		position:absolute;
+		top: 3px;
+		left:17.5%;
+	 }
+#bouton4:hover
+	{color:red;}
+	
+#bouton5
+{
+		font: 14px Brandon text;
+		color:#2e3e96;
+		position:absolute;
+		top: 3px;
+		left:34.5%;
+	 }
+#bouton5:hover
+	{color:red;}	
+
+footer 
+{background:white;
+color:white;
+width: 100%;
+margin-left: -10px;
+position : fixed;
+bottom: 0px;
+height : 30px;
+}
